@@ -1,11 +1,11 @@
-name: 'Your name here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'Smit Darji'
+description: 'This is Test Repo'
+author: 'Smit Darji'
 inputs:
-  milliseconds: # change this
+  milliseconds: 200# change this
     required: true
-    description: 'input description here'
-    default: 'default value if applicable'
+    description: 'test'
+    default: 'test
 runs:
   using: 'node16'
   main: 'dist/index.js'
