@@ -2,7 +2,7 @@ name: 'Smit Darji'
 description: 'This is Test Repo'
 author: 'Smit Darji'
 inputs:
-  milliseconds: 200# change this
+  milliseconds: # change this
     required: true
     description: 'test'
     default: 'test
